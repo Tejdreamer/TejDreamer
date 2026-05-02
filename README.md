@@ -1,4 +1,4 @@
-# Hi, I’m Tej-a Web Developer turning ideas into interactive experiences! 🚀👋
+# Hi, This is Tej, a software Developer turning ideas into experiences! 🚀👋
 
 I’m a developer at heart, passionate about crafting systems that truly make a difference. <br>For me, it’s not just about writing code—it’s about solving problems, creating seamless experiences, and building something meaningful.<br> I thrive in environments where ideas flow, collaboration sparks innovation, and every challenge is an opportunity to learn and grow.<br> My journey is fueled by curiosity and a drive to turn possibilities into reality, one line of code at a time.
 
